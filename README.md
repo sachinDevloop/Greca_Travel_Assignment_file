@@ -12,10 +12,12 @@ Step 7 : php artisan serve<br>
 
 <strong>Methods:</strong>
 	
-	POST 		: api/addbooking  //Add Booking
+	POST 		: api/addbooking  //Add Booking  
 	GET  		: api/bookingstatus  //Check Booking Status
 	GET  		: api/client  //Get Client List
 	GET  		: api/product  //Get Product List
 	GET  		: api/booking  //Get Booking List
 	
 
+
+![image](https://user-images.githubusercontent.com/12134789/182804113-10ef27b1-1187-4a92-88f9-d48a8a622fe3.png)
