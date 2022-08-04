@@ -9,3 +9,13 @@ Step 6 : php artisan migrate --seed<br>
 Step 7 : php artisan serve<br>
 
 
+
+<strong>Methods:</strong>
+	
+	POST 		: api/addbooking  //Add Booking
+	GET  		: api/bookingstatus  //Check Booking Status
+	GET  		: api/client  //Get Client List
+	GET  		: api/product  //Get Product List
+	GET  		: api/booking  //Get Booking List
+	
+
